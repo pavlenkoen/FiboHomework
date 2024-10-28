@@ -29,4 +29,3 @@ with open('out_nums.txt', 'w') as file:
 
 
 
-
